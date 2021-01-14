@@ -7,7 +7,7 @@ import javax.swing.JTextField;
 public class Test {
 
 	public static void main(String[] args) {
-		JFrame f = new JFrame ("Bosch practical task");
+		JFrame f = new JFrame ("Practical task");
 		
 		JTextField t1,t2;
 		t1 = new JTextField("/input/dir/path/");
